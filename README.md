@@ -74,7 +74,13 @@ Profile" height="30" width="30">
 
 <h4 align="center">Some states :chart:</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![NTangHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTangHao)](https://github.com/NTangHao/github-readme-stats)
+
+</div>
+
+
 
 <div align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NTangHao&hide_border=true" />
