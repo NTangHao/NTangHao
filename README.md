@@ -29,8 +29,6 @@ enables me to
 pass the **hard time** and have a lower risk of premature death. Positive thinking also helps 
 promote greater feelings of happiness and overall satisfaction with life.
 
-I was originally a student who study languages (English) at high school, as well as a freelance English translator (2015-2018) so used to connecting everyone by **ideas and messages** or so.
-
 
 
 > **Sharing is connecting**
@@ -75,7 +73,8 @@ Profile" height="30" width="30">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTangHao&langs_count=10&layout=compact&hide=objective-c,shell,starlark" alt="NTangHao top langs" /></p>
 
 <h4 align="center">Some states :chart:</h4>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTangHao&show_icons=true&theme=cobalt )
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NTangHao&hide_border=true" />
