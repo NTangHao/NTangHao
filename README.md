@@ -76,7 +76,7 @@ Profile" height="30" width="30">
 
 <div align="center">
 
-[![NTangHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTangHao)](https://github.com/NTangHao/github-readme-stats)
+[![NTangHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTangHao)](https://github-readme-stats.vercel.app/api?username=NTangHao)
 
 </div>
 
