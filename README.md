@@ -67,7 +67,7 @@ Profile" height="30" width="30">
   </a>
 </p>
 
-<!-- <h2 align="center"><a href="https://lhmson.github.io/leesown_portfolio/">Tiny porfolio website</a></p> -->
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
@@ -75,9 +75,7 @@ Profile" height="30" width="30">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTangHao&langs_count=10&layout=compact&hide=objective-c,shell,starlark" alt="NTangHao top langs" /></p>
 
 <h4 align="center">Some states :chart:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?
-username=NTangHao&show_icons=true&theme=react&hide=stars,issues&custom_title=TangHao+ 
-Public+State+Recently" alt="NTangHao Profile Stats" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTangHao&show_icons=true&theme=cobalt )
 
 <div align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NTangHao&hide_border=true" />
@@ -86,6 +84,7 @@ Public+State+Recently" alt="NTangHao Profile Stats" /></p>
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NTangHao&title=MultiLanguage,Commit,Repositories&column=3&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
