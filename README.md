@@ -36,7 +36,7 @@ promote greater feelings of happiness and overall satisfaction with life.
 :sunrise_over_mountains: **Skills**
 
 * **Tech**: C# (.NET, ASP.NET Core, Core API), C++, Java, Python  | HTML5, CSS3, JavaScript, 
-  ReactJS, React Native | CouchDB, SQL Server, MySQL, Firebase | Git, OOP, Testing
+  ReactJS, React Native | CouchDB, MSSQL Server, MySQL, Oracle, Firebase | Git, OOP, Testing
 * **Core**: English Manipulation, Data Structures, Algorithms, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
 * **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork
 
