@@ -11,7 +11,7 @@
 **Current Position**: an IT Student major in Information System from [University of Information 
 Technology](https://en.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)
 
-**Hobbies**: English, reading manga, light novel, computer games (MOBA like League of Legends), 
+**Hobbies**: English, reading manga, light novel, computer games (CS GO, Valorant, League of Legends), 
 watching 
 footbal..
 
