@@ -67,13 +67,6 @@ Profile" height="30" width="30">
 
 <h4 align="center">Some states :chart:</h4>
 
-<div align="center">
-
-[![NTangHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTangHao)](https://github-readme-stats.vercel.app/api?username=NTangHao)
-
-</div>
-
-
 
 <div align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NTangHao&hide_border=true" />
