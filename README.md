@@ -65,12 +65,6 @@ Profile" height="30" width="30">
 <h4 align="center">Top langs :computer:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTangHao&langs_count=10&layout=compact&hide=objective-c,shell,starlark" alt="NTangHao top langs" /></p>
 
-<h4 align="center">Some states :chart:</h4>
-
-
-<div align=center>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=NTangHao&hide_border=true" />
-</div>
 
 <div align="center">
 
