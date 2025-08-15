@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm NTangHao</h1>
 
-<p align="center">
-  <img src="./Aaaaaaaaaaaaaa.gif" alt="Hello I am hao" />
-</p>
-
 **Name**: Nguyễn Tăng Hảo (you can call me NearHao)
 
 **Birthyear**: 2001
@@ -11,9 +7,6 @@
 **Current Position**: an IT Student major in Information System from [University of Information 
 Technology](https://en.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)
 
-**Hobbies**: English, reading manga, light novel, computer games (CS GO, Valorant, League of Legends), 
-watching 
-footbal..
 
 **Career Orientation**: a Software Developer, a professional Business Analyst heading for a Project Manager role
 
